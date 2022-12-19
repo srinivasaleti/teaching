@@ -1,0 +1,76 @@
+- HTML: Hyper Text Markup Languague
+- CSS: Styling
+- JS
+	- Dynamic Nature 
+	- Earlier days only used in the browser
+	Run:
+		Compiler => Compile => Executable Files => Run => Output (C, C++)
+		Interpretors => Line by Line => Python, Java
+		Javascript:
+			 Engines =>
+			 	Mozilla: SpiderMonkey
+			 	Chrome: V8 
+			 		= Broswer
+			 	NodeJS Engine:
+			 		-> Runs in a system
+			 		-> Backend/System Related Programming/Gaming...
+
+Frontend:
+-> Vanela Javascript
+-> Jquery
+-> Angualar (Framework)
+-> React (UI Library)
+-> Vue JS
+Backend:
+-> NodeJS
+-> ExpressJS
+-> NestJS
+
+
+Javascript:
+	- Variables
+	- Conditionals
+	- Loops
+	- Functions
+	- Arrays
+	- Objects
+	- Strings
+	- Callbacks
+	- Promises
+	- Asyn & Await
+	- Classes
+
+
+React
+	- History
+	- Component
+	- Class Components
+	- Props
+	- State
+	- Lifecycles
+	- Functional Components
+	- Conditional Rendering
+	- State Management
+	- Hooks
+		- State
+		- Context
+		- Effect
+		- Callback
+	- APIs
+	- Forms
+	- Validations
+	- Routing
+	- Application
+
+
+Github
+	- Init
+	- Status
+	- Add
+	- Pull
+	- Push
+	- Rebase
+	- Merge
+	- Branch
+	- Pull Request
+
